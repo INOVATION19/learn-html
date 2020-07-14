@@ -1,2 +1,3 @@
 # learning-area
-everything I learn
+Everything I learn in html
+
